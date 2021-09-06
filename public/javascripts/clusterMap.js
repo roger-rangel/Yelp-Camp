@@ -21,7 +21,7 @@ type: 'geojson',
 data: campgrounds,
 cluster: true,
 clusterMaxZoom: 14, // Max zoom to cluster points on
-clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
+clusterRadius: 60 // Radius of each cluster when clustering points (defaults to 50)
 });
  
 map.addLayer({
@@ -120,7 +120,7 @@ coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
 new mapboxgl.Popup()
 .setLngLat(coordinates)
 .setHTML(
-`magnitude: ${mag}<br>Was there a tsunami?: ${tsunami}`
+`<h3>Campground</h3>`
 )
 .addTo(map);
 });
