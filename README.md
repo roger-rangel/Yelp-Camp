@@ -1,9 +1,11 @@
-# my-first-web-app
 
-# YelpCamp
 
-![Image 1](https://github.com/roger-rangel/My-First-Web-App/blob/main/screenshots/image_2.png)  
-![Image 2](https://github.com/roger-rangel/My-First-Web-App/blob/main/screenshots/image_4.png)  
+# YelpCamp - My first Web APP
+
+![Image 2](https://github.com/roger-rangel/My-First-Web-App/blob/main/screenshots/image_2.png)  
+![Image 4](https://github.com/roger-rangel/My-First-Web-App/blob/main/screenshots/image_4.png) 
+![Image 1](https://github.com/roger-rangel/My-First-Web-App/blob/main/screenshots/image_1.png) 
+![Image 3](https://github.com/roger-rangel/My-First-Web-App/blob/main/screenshots/image_3.png) 
 
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.  
 
