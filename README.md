@@ -1,6 +1,6 @@
 
 
-# YelpCamp - My First Web App
+# Yelp Camp 
 
 ![Image 2](https://github.com/roger-rangel/My-First-Web-App/blob/main/screenshots/image_2.png)  
 ![Image 4](https://github.com/roger-rangel/My-First-Web-App/blob/main/screenshots/image_4.png) 
